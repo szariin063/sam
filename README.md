@@ -1,2 +1,2 @@
-# sam
+# sam/tron
 zariin 
